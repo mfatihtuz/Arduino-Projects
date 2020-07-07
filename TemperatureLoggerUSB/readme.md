@@ -1,4 +1,4 @@
-Measuring temperature is a similar problem to measuring light intensity. Instead of an LDR, adevice called a thermistor is used. As the temperature increases, so does the resistance of the thermistor. 
+Measuring temperature is a similar problem to measuring light intensity. Instead of an LDR, a device called a thermistor is used. As the temperature increases, so does the resistance of the thermistor. 
 
 When you buy a thermistor, it will have a statedresistance. In this case, the thermistor chosen is  33 KΩ.  This will be the resistance of the device at 25°C.
 
