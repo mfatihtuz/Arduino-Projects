@@ -1,9 +1,8 @@
 /*
-Measuring temperature is a similar problem to measuring light intensity. 
-Instead of an LDR, a device called a thermistor is used. 
+We use thermistor in this project, and in a thermistor;
 As the temperature increases, so does the resistance of the thermistor. 
 
-When you buy a thermistor, it will have a stated resistance. 
+Also when you buy a thermistor, it will have a stated resistance. 
 In this case, the thermistor chosen is  33 KΩ.  This will be the resistance of the device at 25°C.
 
 The formula for calculating the resistance at a particular temperature is given by: 
